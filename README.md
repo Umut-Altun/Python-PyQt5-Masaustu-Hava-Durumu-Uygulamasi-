@@ -1,0 +1,1 @@
+# Python-PyQt5-Masaustu-Hava-Durumu-Uygulamas-
