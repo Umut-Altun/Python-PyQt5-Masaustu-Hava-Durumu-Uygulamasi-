@@ -1,4 +1,4 @@
- 🌦 Hava Durumu Uygulaması
+# 🌦 Hava Durumu Uygulaması #
 Bu proje, Python ve PyQt5 kullanarak basit bir hava durumu uygulaması oluşturur. Uygulama, bir şehir adı girildiğinde o şehir için anlık hava durumu bilgisini OpenWeatherMap API üzerinden alır ve kullanıcıya gösterir.
 
 # 📋 Özellikler
